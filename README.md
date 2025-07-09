@@ -33,9 +33,6 @@ This is a beginner-friendly AI chatbot project that simulates conversation betwe
    python app.py
    ```
 
-3. **Access in browser:**
-   Open [http://127.0.0.1:5000](http://127.0.0.1:5000) in your browser.
-
 ## 💬 Example Interactions
 
 ```
